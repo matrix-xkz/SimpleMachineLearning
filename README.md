@@ -1,0 +1,2 @@
+# SimpleMachineLearning
+这是一个初学者项目，目标是完成一个指定大小手写数字的识别
